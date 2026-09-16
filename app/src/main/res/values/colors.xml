@@ -1,0 +1,5 @@
+<resources>
+    <color name="iris_background">#0B1020</color>
+    <color name="iris_text">#F5F7FF</color>
+    <color name="iris_hint">#9AA2B8</color>
+</resources>
